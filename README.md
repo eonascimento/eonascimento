@@ -14,5 +14,6 @@ Would you like some coffee?
 
 [![Blog Badge](https://img.shields.io/badge/Medium-black)](https://medium.com/@eonascimento)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eonascimento_)](https://twitter.com/eonascimento_)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enio.eon@gmail.com)](mailto:enio.eon@gmail.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/enionascimento)
 
