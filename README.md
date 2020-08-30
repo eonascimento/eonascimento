@@ -1,16 +1,17 @@
-### Hi there 👋
+Hey guys,
+My name is Ênio Nascimento, I currently generate bugs 😁 with continuous integration and continuous delivery on the .Net platform.
+Welcome to my silicon garage! Here I have fun challenging my creativity and I end up learning how not to do some things!
+Joking aside, but being real, here is a channel I use to gain my problem-solving scars.
+If you identified yourself with a "gadget" please contact me it will be a great pleasure to receive your ideas.
 
-<!--
-**eonascimento/eonascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my free time I practice jiu jitsu (ninja),
+to watch movies (🎞️) and series (📺),
+to read books (📚),
+to listen to music (🎵) and I use photography as my therapy!(camera).
 
-Here are some ideas to get you started:
+Would you like some coffee?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Blog Badge](https://img.shields.io/badge/Medium-black)](https://medium.com/@eonascimento)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eonascimento_)](https://twitter.com/eonascimento_)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/enionascimento)
+
