@@ -1,4 +1,4 @@
-### Hey guys,
+### Hey guys, moisturize your elbows!
 
 My name is Ênio Nascimento, I currently generate bugs (🐛) with continuous integration and continuous delivery on the .Net platform.
 Welcome to my silicon garage! Here I have fun challenging my creativity and I end up learning how not to do some things!
