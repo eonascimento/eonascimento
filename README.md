@@ -1,6 +1,10 @@
 ### Hey guys, moisturize your elbows!
+My name is Ênio Nascimento, I am a curious person and fascinated by technology, which makes computing my best leisure and life purpose.
+I believe that professional success is aligned with your level of personal development, so I value good habits, new experiences and good challenges.
+Professionally I bring experiences with software projects, actively participating in commercial and scientific proposals.
+I have collaborated with projects of several clients such as EMBRAPA Gado de Leite, STEFANINI, MRS Logística, FGV, ENEVA, SENAC among others.
+I currently work as a fullstackt developer with .NET Core and Angular.
 
-My name is Ênio Nascimento, I currently generate bugs (🐛) with continuous integration and continuous delivery on the .Net platform.
 Welcome to my silicon garage! Here I have fun challenging my creativity and I end up learning how not to do some things!
 Joking aside, but being real, here is a channel I use to gain my problem-solving scars.
 If you identified yourself with a "gadget" please contact me it will be a great pleasure to receive your ideas.
