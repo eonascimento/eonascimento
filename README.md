@@ -5,7 +5,7 @@ Professionally I bring experiences with software projects, actively participatin
 I have collaborated with projects of several clients such as MAPFRE(BB), EMBRAPA Gado de Leite, STEFANINI, MRS Logística, FGV, ENEVA, SENAC among others.
 I currently work as a fullstackt developer with .NET Core, Angular and agile methodology.
 
-Welcome to my silicon garage! Here I have fun challenging my creativity and I end up learning how not to do some things!
+Welcome to my laboratory! Here I have fun challenging my creativity and I end up learning how not to do some things!
 Joking aside, but being real, here is a channel I use to gain my problem-solving scars.
 If you identified yourself with a "gadget" please contact me it will be a great pleasure to receive your ideas.
 
